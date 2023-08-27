@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897652176916",
+    "project_id": "translator-app-edaf1",
+    "storage_bucket": "translator-app-edaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897652176916:android:99059767fcb2671add4f01",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897652176916-h369fdpv0q4mvmi5c89ls8725n7n0r4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTzkuIz3DQml59vdZcjCsw0ch1-wB4hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897652176916-h369fdpv0q4mvmi5c89ls8725n7n0r4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".SplashscreenActivity">
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginTop="98dp"
+        android:text="Language Translator"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="45dp"
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageView
+        android:id="@+id/idIVLogo"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_below="@+id/textview"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginRight="88dp"
+        android:layout_marginBottom="60dp"
+        android:background="#BF3A2B"
+        android:src="@drawable/languages"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="50dp" />
+</RelativeLayout>
